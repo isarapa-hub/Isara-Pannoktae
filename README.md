@@ -1,5 +1,5 @@
 # JP TRIP – เว็บแนะนำการท่องเที่ยวภูมิภาคคันโต
-
+[![JP TRIP Demo Video](https://img.youtube.com/vi/tTUqYYi1lLY/maxresdefault.jpg)](https://youtu.be/tTUqYYi1lLY)
 ## วิธีติดตั้งและรัน
 
 1. **ฐานข้อมูล** (XAMPP / phpMyAdmin) เปิดฐานข้อมูล `project_jp` แล้วรันตามลำดับ
@@ -49,4 +49,4 @@
 - ข้อมูลตัวอย่าง: **พิกัดและราคาเป็นค่าประมาณ** ไม่มี `image_url` (ระบบใช้รูปสำรองให้) ควรตรวจและใส่ลิงก์รูปจริงในหน้า Admin
 - ปุ่ม Login with Google ยังไม่เปิดใช้ (ต้องมี Google Client ID) จะแจ้งเตือนเมื่อกด
 - รหัสผ่านของบัญชี admin เดิมในฐานข้อมูลยังใช้ได้ตามเดิม (เก็บแบบ bcrypt)
-[![JP TRIP Demo Video](https://img.youtube.com/vi/tTUqYYi1lLY/maxresdefault.jpg)](https://youtu.be/tTUqYYi1lLY)
+
